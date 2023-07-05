@@ -152,6 +152,49 @@ Main St
 Main End
 -----------*/
 
+/*-----------
+footer St
+------------*/
+.fot{
+    background-color: #0f0826;
+    color: white;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+#adress{
+    text-align: center;
+    
+
+}
+.contact{
+    text-align: center;
+}
+.social{
+    text-align: center;
+}
+.social a{
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+}
+.social a:hover{
+    color: #24a19c;
+    font-size: 35px;
+}
+.credit{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 15px;
+    color: bisque;
+}
+.copy{
+    font-size: 25px;
+    color: bisque;
+}
+
+/*-----------
+footer end
+------------*/
 
 .row{
     width: 100%;
